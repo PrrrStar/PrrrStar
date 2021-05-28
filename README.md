@@ -1,13 +1,9 @@
 <h1>Hi 👋, I'm Ethan Kim</h1>
 <h3>Passionate and curious Jr.DevOps Engineer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prrrstar&label=Profile%20views&color=0e75b6&style=flat" alt="prrrstar" /> </p>
-
-📫 How to reach me **jmeef0802@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prrrstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
+<a target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prrrstar" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
