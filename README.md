@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ethan Kim</h1>
-<h3>A passionate and curious Jr.DevOps Engineer</h3>
+<h3>Passionate and curious Jr.DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prrrstar&label=Profile%20views&color=0e75b6&style=flat" alt="prrrstar" /> </p>
 
