@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ethan Kim</h1>
-<h3 align="center">A passionate DevOps Engineer from Korea</h3>
+<h1>Hi 👋, I'm Ethan Kim</h1>
+<h3>A passionate and curious Jr.DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prrrstar&label=Profile%20views&color=0e75b6&style=flat" alt="prrrstar" /> </p>
 
-- 📫 How to reach me **jmeef0802@gmail.com**
+📫 How to reach me **jmeef0802@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
