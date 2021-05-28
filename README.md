@@ -2,6 +2,7 @@
 <h3>Passionate and curious Jr.DevOps Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prrrstar&label=Profile%20views&color=0e75b6&style=flat" alt="prrrstar" /> </p>
 <p align="left">
+<h3 align="left">📫 Connect with me:</h3>
 <a target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prrrstar" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
 </p>
