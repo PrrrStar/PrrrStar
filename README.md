@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ethan Kim</h1>
 <h3>Curious Jr.DevOps Engineer <br>
-I'm interested in infra optimization and IaC.</h3>
+I'm interested in Blockchain and Cloud Infra Optimization.</h3>
 <h3 align="left">📫 Connect with me:</h3>
 <a href="mailto:jmeef0802@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prrrstar" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
