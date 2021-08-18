@@ -7,7 +7,7 @@ I'm interested in Blockchain and Cloud Infra Optimization.</h3>
 <br>
 
 <h3 align="left">📝 Languages and Tools:</h3>
-<p align="left"> <a href="https://www.terraform.io/" target="_blank"> <img src="https://symbols.getvecta.com/stencil_97/45_terraform-icon.d8dd637866.svg" alt="docker" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="terraform" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://helm.sh/" target="_blank"> <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40"/></a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
