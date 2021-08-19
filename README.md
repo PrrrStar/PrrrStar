@@ -2,7 +2,7 @@
 <h3>Curious Jr.DevOps Engineer <br>
 I'm interested in Blockchain and Cloud Infra Optimization.</h3>
 <h3 align="left">📫 Connect with me:</h3>
-<a href="https://url.kr/54rfds" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C510BAQHv4TuUSVmblQ/company-logo_200_200/0/1573513777801?e=2159024400&v=beta&t=jab4Hx41IV1SHkNOGI5dunpBHr54IfMf8MJ9cEbXh5o" alt="notion" height="40" width="40" /></a>
+<a href="https://fan-twilight-6d6.notion.site/e049988a50614697b8a33c668b6e5aee" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C510BAQHv4TuUSVmblQ/company-logo_200_200/0/1573513777801?e=2159024400&v=beta&t=jab4Hx41IV1SHkNOGI5dunpBHr54IfMf8MJ9cEbXh5o" alt="notion" height="40" width="40" /></a>
 <a href="mailto:jmeef0802@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prrrstar" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
 <br>
