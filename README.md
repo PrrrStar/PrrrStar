@@ -37,7 +37,7 @@ I'm interested in building high-availability blockchain nodes and service meshes
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https:k//www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
  
 <h3>Language </h3>
-<a href="https://go.dev/" target="_blank"> <img src="https://ichi.pro/assets/images/max/724/1*vmFSpk9xtpxAHkH7cmt-3Q.png" alt="go" width="40" height="40"/> </a> 
+<a href="https://go.dev/" target="_blank"> <img src="https://banner2.cleanpng.com/20180731/tzw/kisspng-gopher-docker-computer-programming-clojure-5b60bcbbaea281.7058312815330664277153.jpg" alt="go" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
