@@ -26,6 +26,7 @@ I'm interested in building high-availability blockchain nodes and service meshes
 <br>
 
 <h3>Pipeline </h3>
+ <a href="https://argoproj.github.io/cd" target="_blank"> <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" alt="argocd" width="40" height="40"/> </a>
  <a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="gitaction" width="40" height="40"/> </a>
  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="30" height="40"/> </a>
  <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
