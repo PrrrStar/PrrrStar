@@ -26,7 +26,7 @@ I'm interested in building high-availability blockchain nodes and service meshes
 <br>
 
 <h3>Pipeline </h3>
- <a href="https://argoproj.github.io/cd" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ranrubin%2Fa-robust-implementation-of-argocds-app-of-apps-pattern-97f8071e0de&psig=AOvVaw2TU0N-0JxZDOOEUiYrxAqv&ust=1696751637592000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCim8q644EDFQAAAAAdAAAAABAR" alt="argocd" width="40" height="40"/> </a>
+ <a href="https://argoproj.github.io/cd" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*d_nWfpG-EF831-yXwx64HQ.png" alt="argocd" width="40" height="40"/> </a>
  <a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="gitaction" width="40" height="40"/> </a>
  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="30" height="40"/> </a>
  <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
@@ -37,7 +37,7 @@ I'm interested in building high-availability blockchain nodes and service meshes
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https:k//www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
  
 <h3>Language </h3>
-<a href="https://go.dev/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgolang-samples%2Fgopher-vector&psig=AOvVaw3h5REtnt_qVp7WEimg6C44&ust=1696751471340000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPij-ve544EDFQAAAAAdAAAAABAm" alt="go" width="40" height="40"/> </a> 
+<a href="https://go.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="go" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
@@ -49,7 +49,7 @@ I'm interested in building high-availability blockchain nodes and service meshes
 
 <br>
 <h1 align="left">📫 Connect with me:</h1>
-<a href="https://prrrstar.oopy.io/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fnotion-logo-1&psig=AOvVaw3bGsxDHRzNYFSvohpCyj0p&ust=1696751807371000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjN-5e744EDFQAAAAAdAAAAABAD" alt="notion" height="40" width="40" /></a>
+<a href="https://prrrstar.oopy.io/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="notion" height="40" width="40" /></a>
 <a href="mailto:jmeef0802@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prrrstar" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="www.linkedin.com/in/prrrstar" height="30" width="40" /></a>
 
