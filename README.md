@@ -43,8 +43,8 @@ I'm interested in building high-availability blockchain nodes and service meshes
 </p>
 
 <h1>Current</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prrrstar&show_icons=true&theme=radical" alt="prrrstar" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prrrstar&show_icons=true&theme=radical" alt="prrrstar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prrrstar&show_icons=true&theme=radical" alt="prrrstar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prrrstar&show_icons=true&theme=radical" alt="prrrstar" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prrrstar&show_icons=true&layout=compact&theme=radical" alt="prrrstar" /></p>
 
 <br>
