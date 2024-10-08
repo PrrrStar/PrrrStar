@@ -1,9 +1,8 @@
 <h1 align="left">Introduce</h1>
 <b
 <h2>Hi, I'm Ethan Kim <br>
-I am DevOps Engineer at Haechi Labs. <br>
-I love learning and applying new skills. <br> 
-I'm interested in building high-availability blockchain nodes and service meshes.</h2>
+I am DevOps Engineer at Yanolja. <br>
+I love learning and applying new skills. </h2>
 </h3>
 <br><br>
 
